@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://vmorgen.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Jun 2019 21:48:31 +0800</lastBuildDate>
+    
+	<atom:link href="https://vmorgen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>招聘 [OPPO 深圳] 展望 2019 全新岗位招聘-互联网- 测试工程师 / 测试专家 / 测试开发 / 算法工程师 [以下岗位长期有效]</title>
+      <link>https://vmorgen.github.io/post/blog/</link>
+      <pubDate>Sat, 22 Jun 2019 21:48:31 +0800</pubDate>
+      
+      <guid>https://vmorgen.github.io/post/blog/</guid>
+      <description>[深圳] OPPO 招聘 互联网专场 高级测试工程师 坐标： 深圳湾、深圳人才公园、海岸城的中间，海景Office 招聘职位：高级测试工程师 薪水范围：待遇根据能力向同等级别的bat看齐 简历请发送：weiliang@oppo.com  老板说了，拿不到简历，过完年留在家放羊吧
+ 【关于我们】 十年来，OPPO 一直专注手机拍照的技术创新，开创了“手机自拍美颜”时代。全球超过 2 亿年轻人正在使用 OPPO 拍照手机* 。 &amp;gt;根据 IDC 2016 年中国智能手机行业统计报告
+而互联网测试工程师，正是为如此规模的产品质量、用户体验，利用技术手段，提供有力支持。挑战和收获同在。
+【职位介绍】 服务端测试工程师/测试专家 职位描述: - 主导所负责项目的测试工作，对测试结果负责 - 制定测试计划，识别品质风险，提出合理的解决方案 - 根据需求特性，制定完善的测试方案和测试设计 - 组织执行测试任务，整理和分析测试结果 - 改善测试方法和测试工具，促进团队专业水平的提升
+岗位要求: - 非常熟悉linux平台特性 - 扎实的计算机基础和编程能力，至少熟悉Java/Python/Ruby/Go/JavaScript等主流语言中的一种 - 熟练使用主流性能测试工具，并且能快速定位并且分析性能问题 - 对单元测试/接口测试有独到见解者优先，熟悉主流测试框架，最好有测试框架的二次开发经历 - 对自动化测试和持续集成有正确认识和使用，并且有合理的产出 - 提供github账户或者stackoverflow账户者优先
+Android测试工程师/测试专家 职位描述: - 负责Android端的功能测试和兼容测试 - 负责Android端的UI自动化和性能测试 - 制定测试方案和测试计划，组织执行测试任务 - 推动开发流程优化，提升团队工作效率 - 改善测试方法和测试工具，促进团队专业水平的提升
+岗位要求: - 非常熟悉Android平台特性 - 扎实的计算机基础和编程能力，至少熟悉Java/Python/Ruby/Go/JavaScript等主流语言中的一种，有客户端编程经验者优先 - 能熟练使用成熟工具，对问题进行快速定位。熟悉instruments/traceview/charles等工具者优先 - 对 性能测试/稳定性测试/兼容性测试／电量测试／弱网络测试有独到见解者优先 - 对自动化测试和持续集成有正确认识和使用，并且有合理的产出 - 提供github账户或者stackoverflow账户者优先</description>
+    </item>
+    
+  </channel>
+</rss>
